@@ -1,5 +1,5 @@
 // API Configuration
-export const API_BASE_URL = 'https://aeb4-124-29-239-159.ngrok-free.app/api';
+export const API_BASE_URL = 'https://auth-production-f0ea.up.railway.app/api';
 
 // API Endpoints
 export const API_ENDPOINTS = {
